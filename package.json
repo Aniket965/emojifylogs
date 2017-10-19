@@ -1,0 +1,30 @@
+{
+  "name": "emojifylogs",
+  "version": "0.0.1",
+  "description": "Convert basic logs into more intresting Log using Emoji logs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket965/emojifylogs.git"
+  },
+  "keywords": [
+    "node",
+    "logs",
+    "emoji",
+    "emoji-logger",
+    "emojilogs",
+    "logger",
+    "emojilogger",
+    "catlogger",
+    "doglogger"
+  ],
+  "author": "aniket965",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aniket965/emojifylogs/issues"
+  },
+  "homepage": "https://github.com/Aniket965/emojifylogs#readme"
+}
