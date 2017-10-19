@@ -1,4 +1,5 @@
-# emojifylogs [NPM]('https://www.npmjs.com/package/emojifylogs)
+# emojifylogs 
+![NPM]('https://www.npmjs.com/package/emojifylogs)
 Convert basic logs into more intresting Log using Emoji logs.
 it Contains different type of loggers you can choose your type or suggest for more Loggers
 ## Definations
