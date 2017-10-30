@@ -21,10 +21,11 @@ log('Lol')
 log.info('Awesome info')
 log.error('Awesome Error')
 log.warn('Awesome Warn')
-/* Logs =>
+/* Logs
 😍  Lol
 🤓  Awesome info
 😡  Awesome Error
 😒  Awesome War
+😎  Awesome Vansh
 */
 ```
