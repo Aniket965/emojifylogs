@@ -5,7 +5,7 @@ it Contains different type of loggers you can choose your type or suggest for mo
 
 ## Installation
 ```
-npm install emojifylogs
+npm install emojifylogs🐶
 ```
 ## Definations
 ```javascript
@@ -21,11 +21,12 @@ log('Lol')
 log.info('Awesome info')
 log.error('Awesome Error')
 log.warn('Awesome Warn')
-/* Logs
+/* Logs =>
 😍  Lol
 🤓  Awesome info
 😡  Awesome Error
-😒  Awesome War
-😎  Awesome Vansh
+😒  Awesome War 
+
+
 */
 ```
