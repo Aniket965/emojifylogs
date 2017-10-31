@@ -29,3 +29,4 @@ log.warn('Awesome Warn')
 ⚠️  Awesome Warn
 */
 ```
+ 😷 🤒 🤕 😈 👿 👹 👺 💩 👻
