@@ -1,18 +1,19 @@
-# emojifylogs 
+# emojifylogs 🐬
 [NPM](https://www.npmjs.com/package/emojifylogs)
 Convert basic logs into more intresting Log using Emoji logs.
 it Contains different type of loggers you can choose your type or suggest for more Loggers
 
 ## Installation
 ```
-npm install emojifylogs🐶
+npm install emojifylogs
 ```
 ## Definations
 ```javascript
 
-var log = require('emojifylogs').log
-var Doglogger = require('emojifylogs').Doglogger
-var Catlogger = require('emojifylogs').Catlogger
+const log = require('emojifylogs').log
+const Doglogger = require('emojifylogs').Doglogger
+const Catlogger = require('emojifylogs').Catlogger
+const Humanlogger = require('emojifylogs').Humanlogger
 ```
 
 ## Usage
@@ -21,12 +22,10 @@ log('Lol')
 log.info('Awesome info')
 log.error('Awesome Error')
 log.warn('Awesome Warn')
-/* Logs =>
-😍  Lol
-🤓  Awesome info
-😡  Awesome Error
-😒  Awesome War 
-
-
+/* Log =>
+❤️  Lol
+📄  Awesome info
+👾  Awesome Error
+⚠️  Awesome Warn
 */
 ```

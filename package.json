@@ -1,6 +1,6 @@
 {
   "name": "emojifylogs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert basic logs into more intresting Log using Emoji logs.",
   "main": "app.js",
   "scripts": {
